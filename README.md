@@ -1,2 +1,12 @@
 ![1-notebook png](https://github.com/user-attachments/assets/0b26cc96-1fcc-4321-8658-64170e2a439f)
+![2-title](https://github.com/user-attachments/assets/5515a627-c099-4b22-90d2-ce4242fb3123)
+![3-intro](https://github.com/user-attachments/assets/7d64debc-8fee-47c1-8a7f-e159074180cf)
+![4-dslanguages](https://github.com/user-attachments/assets/7f77345c-66a1-458c-91e9-92e486a56b9f)
+![5-libraries](https://github.com/user-attachments/assets/d375d994-5f5e-41b3-af16-aadfa6f40cd6)
+![6-dstools](https://github.com/user-attachments/assets/55ed3d9e-7c33-4b4f-8930-b43e84a910cf)
+![7-introarothmatic](https://github.com/user-attachments/assets/db585d04-8012-4819-bd62-09158cb3fb3c)
+![8-addmultiply](https://github.com/user-attachments/assets/a00e1f61-ba80-41be-a656-f30376b246bd)
+![9-hourstomin](https://github.com/user-attachments/assets/3cec56f6-f694-4435-87ab-e0287c92db3f)
+![10-objectives](https://github.com/user-attachments/assets/73656c54-a224-46a2-b9f5-c3f2179d481d)
+![11-authors](https://github.com/user-attachments/assets/1de0cdb9-ef3a-4ab7-8f0b-74d62aa03518)
 
